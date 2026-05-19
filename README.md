@@ -1,4 +1,4 @@
 # HTML-project
 Basic HTML webpages with links and images 
 
-Extract zip file before opening
+For preview, download and extract rar file
